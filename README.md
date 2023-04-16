@@ -22,7 +22,7 @@
 
 #### Intel Core I3-4150 CPU @ 3.50 GHZ
 #### Gigabyte B85M-D3PH  Mainboard
-#### DDR3 8GB HyperX
+#### DDR3 16GB HyperX
 #### NVIDIA Geforce GTX 1050
 #### SSD Kingston 480 GB
 #### MOUSE GT GAMING LIGHT USB 2400 DPI GOLDENTEC
