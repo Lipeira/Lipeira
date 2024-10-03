@@ -17,24 +17,3 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() 
 
 <br />
-
-## PC config:
-
-#### Intel Core I7-4790 CPU @ 3.60 GHZ
-#### Gigabyte B85M-D3PH  Mainboard
-#### DDR3 16GB HyperX
-#### NVIDIA Geforce GTX 1050
-#### SSD Kingston 1 TB
-#### MOUSE GT GAMING LIGHT USB 2400 DPI GOLDENTEC
-#### GT GOLDENTEC LED RGB KEYBOARD, Anti Ghosting e Blue Switch
-<br />
-<br />
-
-## 🚀 Good Skills
-
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
-
-<br />
-<br />
